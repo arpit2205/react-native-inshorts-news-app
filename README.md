@@ -6,5 +6,5 @@ A news application (Android/iOS) built using React Native that displays recent n
 - Light and dark themes
 
 ## Preview
-![](https://github.com/arpit2205/react-native-inshorts-news-app/blob/main/preview.gif)
+![](https://github.com/arpit2205/react-native-inshorts-news-app/blob/main/preview.gif | width=100)
 
